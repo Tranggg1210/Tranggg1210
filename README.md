@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Trang</h2>
-> 🏫 I am currently in my third year at HaUI. <br/>
+> 🏫 I graduated from HaUI. <br/>
 > ✍ I'm a front-end developer
 <br />
 
